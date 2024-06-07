@@ -1,0 +1,6 @@
+D:\Proyectos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe.config
+D:\Proyectos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.exe
+D:\Proyectos\Trabajo Practico\Trabajo Practico\bin\Debug\Trabajo Practico.pdb
+D:\Proyectos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.csprojResolveAssemblyReference.cache
+D:\Proyectos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.exe
+D:\Proyectos\Trabajo Practico\Trabajo Practico\obj\Debug\Trabajo Practico.pdb
